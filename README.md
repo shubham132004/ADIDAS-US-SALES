@@ -1,4 +1,3 @@
-
 ![Adidas](https://github.com/user-attachments/assets/497053b9-d2ad-4c2d-88d4-456bde5ca379)
 
 
@@ -41,7 +40,7 @@ Get an instant overview with performance indicators:
 
 📇 **Created by:** *Shubham Parmar*
 
-🔗 [Connect on LinkedIn](YOUR_LINKEDIN_PROFILE_LINK_HERE)
+🔗 [Connect on LinkedIn](https://www.linkedin.com/in/shubham-parmar-12164024a/)
 
 ## 🛠 Tools & Tech Used
 
